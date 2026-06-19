@@ -1,4 +1,6 @@
 # student attendance management system
+link: https://studentattendancesystem2k26.netlify.app/
+
 📌 Student Attendance Management System
 
 📖 Overview
